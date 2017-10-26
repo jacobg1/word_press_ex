@@ -423,7 +423,7 @@ Repeatable Patterns
 	h5 { font: 20px/1.1 "Raleway", sans-serif;}
 	h6 { font: 18px/1.1 "Raleway", sans-serif;}
 	h1, h2, h3, h4, h5, h6 {
-		color: #272086;
+		color: black;
 		font-weight: 600;
 		margin: 10px 0 24px;
 	}
@@ -2961,6 +2961,13 @@ Panels
 	.roll-team .team-content .name {
 		color: #d65050;
 	}
+
+h2 {
+	background-color: blue;
+}
+p {
+	background-color: blue;
+}
 /* Woocommerce basic - full styles in wc.css
 -------------------------------------------------------------- */
 .woocommerce #respond input#submit,
